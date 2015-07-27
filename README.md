@@ -1,4 +1,5 @@
-# reference
+# notes
+Things that I google for more than twice I try to put in here.
 
 
 ## vim
