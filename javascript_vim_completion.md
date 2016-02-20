@@ -6,7 +6,8 @@ you need more.
 
 That more is [tern](http://ternjs.net/).
 
-- Install YCM with tern support
+- Install YCM with tern support. Here is what I use because I also want tab completion for C-family languages
+  `cd ~/.vim/bundle/YouCompleteMe && ./install.py --clang-completer --tern-completer`
 - create a `.tern-project` file in your current project with your current settings loaded.
 - Restart vim from the directory with `.tern-project`
 
